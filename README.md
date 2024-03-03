@@ -11,6 +11,8 @@ Custom editor scripts for Unity3D that adds enables easier SceneAsset referencin
 
 <a href="https://imgur.com/IL8ktJi.png"><img src="https://imgur.com/IL8ktJi.png" title="source: imgur.com" /></a>
 
+Toggle to show/hide the cached scene info:
+
 <a href="https://imgur.com/LAsOiZE.png"><img src="https://imgur.com/LAsOiZE.png" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/mdAY0Mh.png"><img src="https://imgur.com/mdAY0Mh.png" title="source: imgur.com" /></a>
