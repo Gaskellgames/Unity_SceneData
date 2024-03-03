@@ -18,7 +18,7 @@ Custom editor scripts for Unity3D that enables easier SceneAsset referencing at 
 
   (Orange) not in the build scenes and enabled,
 
-  (Red) is Null.
+  (Red) Null.
 
 <a href="https://imgur.com/LAsOiZE.png"><img src="https://imgur.com/LAsOiZE.png" title="source: imgur.com" /></a>
 
