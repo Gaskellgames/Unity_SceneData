@@ -11,7 +11,8 @@ Custom editor scripts for Unity3D that enables easier SceneAsset referencing at 
 
 <a href="https://imgur.com/IL8ktJi.png"><img src="https://imgur.com/IL8ktJi.png" title="source: imgur.com" /></a>
 
-Toggle to show/hide the cached scene info:
+- Toggle to show/hide the cached scene info.
+- Coloured line to easily sisualise if a scene is: in the build scenes and enabled (Green), not in the build scenes and enabled (Orange) or is Null (Red).
 
 <a href="https://imgur.com/LAsOiZE.png"><img src="https://imgur.com/LAsOiZE.png" title="source: imgur.com" /></a>
 
